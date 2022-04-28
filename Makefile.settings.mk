@@ -6,7 +6,7 @@
 #    By: macbookpro <macbookpro@student.42.fr>      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/10/21 21:06:11 by rotrojan          #+#    #+#              #
-#    Updated: 2022/04/28 17:28:51 by lusokol          ###   ########.fr        #
+#    Updated: 2022/04/28 17:45:33 by lusokol          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -14,7 +14,7 @@
 NAME = 
 
 # sources needed to compile (without the path)
-SRC =	main.cpp \
+SRC =
 
 # path of sources
 PATH_SRCS = 
